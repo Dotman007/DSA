@@ -1,0 +1,14 @@
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\bin\Debug\netcoreapp3.1\AlgorithmPractice.exe
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\bin\Debug\netcoreapp3.1\AlgorithmPractice.deps.json
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\bin\Debug\netcoreapp3.1\AlgorithmPractice.runtimeconfig.json
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\bin\Debug\netcoreapp3.1\AlgorithmPractice.runtimeconfig.dev.json
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\bin\Debug\netcoreapp3.1\AlgorithmPractice.dll
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\bin\Debug\netcoreapp3.1\AlgorithmPractice.pdb
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp3.1\AlgorithmPractice.csproj.AssemblyReference.cache
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp3.1\AlgorithmPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp3.1\AlgorithmPractice.AssemblyInfoInputs.cache
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp3.1\AlgorithmPractice.AssemblyInfo.cs
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp3.1\AlgorithmPractice.csproj.CoreCompileInputs.cache
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp3.1\AlgorithmPractice.dll
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp3.1\AlgorithmPractice.pdb
+C:\Users\ASalami3\source\repos\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp3.1\AlgorithmPractice.genruntimeconfig.cache
